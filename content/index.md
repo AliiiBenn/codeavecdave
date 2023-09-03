@@ -11,3 +11,4 @@ Au minimum une fois par semaine, un article sera posté sur ce blog qui sera par
 ## Articles 
 
 - [[gestion_temps | Comment gérer son temps en informatique]]
+- [[habitudes | Comment développer de meilleures habitudes en informatique]]
